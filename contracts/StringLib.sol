@@ -1,3 +1,4 @@
+pragma solidity ^0.4.0;
 // String Utils v0.1
 
 /// @title String Utils - String utility functions
